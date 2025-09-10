@@ -27,3 +27,4 @@ Built with **HTML**—no frameworks, just pure creativity.
    git clone https://github.com/subhajit-maji/not-open.git
    cd not-open
    open index.html
+   
